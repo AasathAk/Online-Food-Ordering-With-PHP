@@ -28,9 +28,9 @@ if (isset($_SESSION['uid']))
     <link rel="stylesheet" href="css/style.css">
 
     <style>
-        /* span .auto-type{
+        span .auto-type{
             color: yellow;
-        } */
+        }
     </style>
 </head>
 
